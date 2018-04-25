@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-// https://www.npmjs.com/package/google-calendar-events google cal thingy
+// https://www.npmjs.com/package/node-google-calendar google cal
 
 class events extends Component {
   render () {
