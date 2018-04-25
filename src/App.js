@@ -19,13 +19,13 @@ const router = () => (
     <Router>
     <div className="wrapper">
 
-        <div className="item header">
+        <div className="item header borderB">
             {/* Header Row */}
             <Link to="/"> <h2>The Derby Serenaders </h2> </Link>
         </div>
 
 
-        <div className="item span2 header">
+        <div className="item span2 header borderB">
             {/* Nav */}
               <div >
                   <ul className='nav header'>
