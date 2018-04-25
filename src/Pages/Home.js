@@ -43,7 +43,7 @@ class home extends Component {
 
               <p className="indent">
 
-                  Established in 1936 the Derby Serenaders internation showband have a long history and tradition.
+                  Established in 1936 the Derby Serenaders international showband have a long history and tradition.
                   We are a open and friednly band who welcome muscisans of any and all levels, even if you havent played in
                   a while feel free to come along to one of our practise sessions and play along or just lisen and chat all
                   are welcome and help is on hand to get you back up to speed!
