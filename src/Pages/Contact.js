@@ -18,13 +18,13 @@ class contact extends Component {
 
             <p className="indent">
 
-                Please feel free to contact us throught our facebook page <a href='https://www.facebook.com/derby.serenaders/'>The Derby Seranaders</a>.
+                Please feel free to contact us throught our facebook page <a href='https://www.facebook.com/derby.serenaders/'>The Derby Serenaders</a>.
                 Please contact us throught our facebook page if you are looking to book us for an event
             </p>
 
             <p className="indent">
 
-                We practise on a Tuesday night between <i> 7:00 - 9:00 PM </i> at <i>St. Osmunds Church, London Road, Derby, DE24 8UW </i>
+                We practise on a Tuesday night between <i> 7:00 - 9:00 PM </i> in the Church Hall at <i>St. Osmunds Church, London Road, Derby, DE24 8UW </i>
                 The turn is easy to miss but is opposit Browns Landscaping Centre near the Navigation Inn.
 
             </p>
