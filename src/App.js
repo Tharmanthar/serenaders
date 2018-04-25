@@ -4,6 +4,9 @@ import './CSS/App.css';
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
 // grid css https://medium.freecodecamp.org/a-beginners-guide-to-css-grid-3889612c4b35
+// https://coderjourney.com/tutorials/how-to-deploy-a-react-application/
+// this app is deployed to netlify - https://app.netlify.com/
+// github account a.beers972@gmail.com is the log in
 
 // Pages import
 
