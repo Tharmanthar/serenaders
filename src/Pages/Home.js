@@ -18,8 +18,6 @@ class home extends Component {
         <div className="wrapper">
             <div className="span3 banner">
 
-
-
                   {/*  <img className="bannerIMG autolr" src={banner} /> */}
 
 
