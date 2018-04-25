@@ -54,7 +54,7 @@ class home extends Component {
 
               <p className="indent">
 
-                  We practise on a Tuesday night between <i> 7:00 - 9:00 PM </i> at <i>St. Osmunds Church, Longdon Road, Derby, DE24 8UW </i>
+                  We practise on a Tuesday night between <i> 7:00 - 9:00 PM </i> at <i>St. Osmunds Church, London Road, Derby, DE24 8UW </i>
                   The turn is easy to miss but is opposit Browns Landscaping Centre near the Navigation Inn.
 
               </p>
