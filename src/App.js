@@ -31,6 +31,7 @@ const router = () => (
                   <ul className='nav header'>
                       <li>      <Link to="/">         <h2>Home</h2>         </Link>       </li>
                       <li>      <Link to="/band">     <h2>The Band</h2>     </Link>       </li>
+                      <li>      <Link to="/events">   <h2>Events</h2>       </Link>      </li>
                       <li>      <Link to="/contact">  <h2>Contact Us</h2>    </Link>      </li>
                   </ul>
               </div>
@@ -41,6 +42,7 @@ const router = () => (
             <div>
               <Route exact path="/"    component={home} />
               <Route path="/band"      component={band} />
+              <Route path="/events"    component={events} />
               <Route path="/contact"   component={contact} />
             </div>
 
