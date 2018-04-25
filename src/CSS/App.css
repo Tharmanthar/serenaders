@@ -1,0 +1,57 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: 33% 34% 33%;
+}
+
+.span3{
+  grid-column: span 3;
+}
+
+.span2{
+  grid-column: span 2;
+}
+
+.nav {
+  text-align: right;
+  margin: 0px;
+}
+
+ul.nav li {
+  display: inline-block;
+  padding-right: 25px;
+  margin: 0px;
+  color: white;
+  text-decoration: none;
+}
+
+h2 {
+  color: white;
+  font-family: cursive;
+  font-size: 1em;
+}
+
+.header{
+  background-color: red;
+  color: white;
+  padding-left: 15px;
+  border-bottom: 1px solid black;
+  position: sticky;
+  top:0;
+  z-index: 1;
+}
+
+.footer {
+  height:20px;
+  background-color:black;
+  color: white;
+  margin-top:15px;
+  border-top:1px solid darkgrey;
+  position: relative;
+}
+
+.footcontent{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin-right:20px;
+}
