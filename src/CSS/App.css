@@ -44,7 +44,7 @@ h2 {
 }
 
 .footer {
-  height:20px;
+  height:35px;
   background-color:black;
   color: white;
   margin-top:15px;
@@ -57,4 +57,5 @@ h2 {
   bottom: 0;
   right: 0;
   margin-right:20px;
+  overflow: scroll;
 }
