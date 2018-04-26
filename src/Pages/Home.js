@@ -42,16 +42,16 @@ class home extends Component {
 
               <p className="indent">
 
-                  Established in 1936 the Derby Serenaders international showband have a long history and tradition.
-                  We are a open and friendly band who welcome muscisans of any and all levels, even if you havent played in
-                  a while feel free to come along to one of our practise sessions and play along or just lisen and chat all
+                  Established in 1936 the Derby Serenaders International Showband have a long history and tradition.
+                  We are a open and friendly band who welcome musicians of any and all levels, even if you havent played in
+                  a while feel free to come along to one of our practice sessions and play along or just lisen and chat all
                   are welcome and help is on hand to get you back up to speed!
 
               </p>
 
               <p className="indent">
 
-                  We practise on a Tuesday night between <i> 7:00 - 9:00 PM </i> in the Church Hall at <i>St. Osmunds Church, London Road, Derby, DE24 8UW </i>
+                  We practice on a Tuesday night between <i> 7:00 - 9:00 PM </i> in the Church Hall at <i>St. Osmunds Church, London Road, Derby, DE24 8UW </i>. 
                   The turn is easy to miss but is opposit Browns Landscaping Centre near the Navigation Inn.
 
               </p>
